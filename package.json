@@ -1,0 +1,24 @@
+{
+  "name": "gql-test-extraction",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socialtables/gql-test-extraction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socialtables/gql-test-extraction/issues"
+  },
+  "homepage": "https://github.com/socialtables/gql-test-extraction#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "gql-extract": "0.0.2",
+    "mkdirp": "^0.5.1"
+  }
+}
